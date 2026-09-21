@@ -1,0 +1,4 @@
+interface:
+  display_name: "音综标题排版"
+  short_description: "根据参考图生成多风格、有层次感且带真实透明通道的音综与MV标题排版"
+  default_prompt: "使用 $music-show-title-design 根据参考图生成多版透明音综标题设计。"
